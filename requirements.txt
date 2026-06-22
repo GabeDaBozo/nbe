@@ -1,0 +1,8 @@
+colorama
+json
+requests
+discord
+asyncio
+discord.ext
+discord
+time
